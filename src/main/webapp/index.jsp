@@ -5,7 +5,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="AdditionServlet">
+<form action="Testserv">
 
 	<input type="text" name="n1">
 	<input type="text" name="n2">
