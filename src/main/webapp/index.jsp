@@ -2,14 +2,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Project to add</title>
 </head>
 <body>
 <form action="Testserv">
 
 	<input type="text" name="n1">
 	<input type="text" name="n2">
-	<input type="submit" name="sumbit">
+	<input type="submit" name="sumbit" value="Calculate sum">
 	
 </form>
 </body>
